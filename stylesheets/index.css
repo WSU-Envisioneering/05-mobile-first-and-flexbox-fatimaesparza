@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+}
+body{
+    background-color: rgb(157, 207, 250);
+    font-family: monospace;
+    padding: .7rem;
+}
+header,footer{
+    text-align: left;
+    background-color: rgb(165, 182, 197);
+    padding: 1em 2em 1em 2em;
+    border-radius: 1em;
+    box-shadow: -3px -3px black;
+}
+nav a{
+    font-weight: bolder;
+    color: rgb(63, 80, 158);
+}
